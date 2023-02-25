@@ -12,7 +12,7 @@ flexbox{
 .Hero{
     height: 100vh;
     width: 100%;
-    background-image: url(/TestingProject/img/img-1.jpg);
+    background-image: url(img/HeroImage.jpg);
     background-size: cover;
     background-position: center;
 }
